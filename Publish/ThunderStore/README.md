@@ -1,4 +1,4 @@
-# FoodTweaks
+# MagicShieldTweaks
 Simple mod that improves the magic shields you can cast. Adds secondary attacks to both staffs that allow you to remove the shield they cast and changes color of the protection shield based on its current health. All configurable.
 
 **Server-Side Info**: This mod is entirely client side.
